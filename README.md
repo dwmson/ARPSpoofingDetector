@@ -31,5 +31,5 @@ python arp_spoofing_detector.py
 * If a duplicate MAC address is found, it logs the event with the offending MAC address and timestamp in log.txt.
 
 ## License
-This script is released under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
+This script is released under the MIT License. See the [LICENSE](LICENSE) file for details.
 
